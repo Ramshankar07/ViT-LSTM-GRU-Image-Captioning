@@ -9,10 +9,53 @@ The project supports the following datasets:
 
 * **Flickr_8K**
 * **Flickr_30K**
-* **MSCOCO**
 
 Ensure you have downloaded and prepared these datasets in the appropriate format. Some images should be set aside for testing purposes.
+Project Milestones
+To complete the project by October 30, we have set the following milestones:
 
+Data Preparation and Model Setup (Due: October 21)
+
+Download and preprocess datasets
+Set up ViT model for image embedding generation
+Implement basic LSTM/GRU architecture
+
+
+Model Training and Initial Evaluation (Due: October 25)
+
+Train the LSTM/GRU model on prepared data
+Implement BLEU score evaluation
+Conduct initial performance assessment
+
+
+Final Evaluation and Comparison (Due: October 28)
+
+Implement semantic distance evaluation
+Compare results with LLM-generated captions
+Prepare final report and documentation
+
+
+
+Team Responsibilities
+The work is split among three team members as follows:
+
+Team Member A: 
+
+Responsibilities:
+
+
+
+
+
+
+Team Member B: 
+
+Responsibilities:
+
+
+
+
+Team Member C: 
 ## Prerequisites
 
 * Python 3.7+
