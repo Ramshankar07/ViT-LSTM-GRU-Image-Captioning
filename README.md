@@ -2,7 +2,7 @@
 # ViT-LSTM/GRU Image Captioning Project
 
 This project focuses on generating image captions using a combination of Vision Transformers (ViT) for image embeddings and LSTM/GRU models for sequence generation. The aim is to create descriptive captions for images using advanced deep learning techniques.
-
+## Model Link : https://drive.google.com/drive/folders/1mZvcKd-C9rf3wPUAaWMKfvFTLgTha5IK?usp=sharing
 ## Datasets
 
 The project supports the following datasets:
